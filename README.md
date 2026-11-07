@@ -38,6 +38,19 @@ Grab the latest from [**Releases**](https://github.com/pounceapps/downloads/rele
 | 🔩 | **[RetroCode](https://pounceapps.com/retrocode.html)** | Code like it's **1980** — a real 8-bit CPU emulator, TRS-80-style **BASIC** with a graphics display, a modern editor, and an AI tutor. |
 | 🐱 | **[MorselHub](https://pounceapps.com/morselhub.html)** | Your **AI message hub** — connects iMessage, RetroCode & webhooks to Claude and routes the replies back. Runs locally. |
 
+## Games
+
+The DMGs for Steve's free Mac games, from **[Three Peppers Gaming](https://github.com/Three-Peppers-Gaming)**,
+live here too. Install them with the games tap:
+
+```sh
+brew tap pounceapps/games
+brew trust pounceapps/games
+brew install --cask land-of-senia
+```
+
+See **[pounceapps/homebrew-games](https://github.com/pounceapps/homebrew-games)** for every game.
+
 ## Requirements
 
 macOS 12+ (Apple Silicon). PounceSQL requires macOS 13+.
